@@ -1,0 +1,4 @@
+category: Python
+requires: Python
+sdesc: "Google Chart API for Python"
+ldesc: "pygooglechart is a complete Python wrapper for the Google Chart API."

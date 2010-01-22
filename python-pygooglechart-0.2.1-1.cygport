@@ -1,0 +1,5 @@
+inherit distutils
+
+
+HOMEPAGE="http://pygooglechart.slowchop.com/"
+SRC_URI="http://pygooglechart.slowchop.com/files/download/${ORIG_PN}-${PV}.tar.gz"
